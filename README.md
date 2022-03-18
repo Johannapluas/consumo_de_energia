@@ -114,9 +114,5 @@ while op != 0:
             print("La Region",region, 'recaudo:', total2,"Dolares$", '\n')
         else:
             print(total2)
-    elif op==0:
-        exit
-        print("listo")
-    else:
-        print("terminado")
+  
         ```
