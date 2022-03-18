@@ -1,5 +1,5 @@
 # consumo_de_energia
-###Para administrar la nueva matriz energética del Ecuador, Ud. tiene un diccionario con la información de las 
+## Para administrar la nueva matriz energética del Ecuador, Ud. tiene un diccionario con la información de las 
 plantas de energía y a las ciudades que atienden. ​Cada ciudad tiene: una tupla con los consumos mensuales
 (12) del año en ​megavatios-hora (MWh) y la tarifa de consumo en dólares por megavatio-hora (MWh) que le
 cobra la planta eléctrica. Una ciudad puede estar servida por más de una planta eléctrica. No todas las 
