@@ -5,6 +5,7 @@ de las plantas de energía y a las ciudades que atienden. ​Cada ciudad tiene: 
 cobra la planta eléctrica. Una ciudad puede estar servida por más de una planta eléctrica. No todas las 
 ciudades​ ​son​ ​servidas​ ​por​ ​todas​ ​las​ ​plantas​ ​eléctricas.
 
+## Respuesta✨
 ```python
 consumo_energia = {
     'Coca Codo Sinclair':{
