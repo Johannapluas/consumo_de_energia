@@ -131,7 +131,7 @@ while op != 0:
         region = input('Ingrese región:')
         total2 = total_por_region(region)
         if type(total2)==int:
-            print("La Region",region, 'recaudo:', total2,"Dolares$", '\n')
+            print("La Region",region, 'recaudo:', total2,"$", '\n')
         else:
             print(total2)
   
